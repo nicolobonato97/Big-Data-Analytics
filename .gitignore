@@ -9,4 +9,5 @@ Progetto Big Data/data
 Progetto Big Data/data_clean
 Progetto Big Data/speeches.json
 venv-38/
+.venv/
 .DS_Store
