@@ -13,3 +13,4 @@ venv-38/
 .DS_Store
 Progetto Big Data/drugs_complete.csv
 preprocessing.ipynb
+Progetto Big Data/medicina.jsonl
