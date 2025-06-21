@@ -9,6 +9,7 @@ comm==0.2.2
 contourpy==1.1.1
 collections==3.13.5
 cycler==0.12.1
+csv==1.0
 debugpy==1.8.14
 decorator==5.2.1
 executing==2.2.0
@@ -37,6 +38,7 @@ numpy==1.24.4
 packaging==25.0
 pandas==2.0.3
 parso==0.8.4
+PyPDF2==3.0.1
 pexpect==4.9.0
 pickleshare==0.7.5
 pillow==10.4.0
@@ -52,6 +54,7 @@ python-dateutil==2.9.0.post0
 pytz==2025.2
 PyWavelets==1.4.1
 pyzmq==26.4.0
+re= 0.8.1
 regex==2024.11.6
 requests==2.32.3
 scikit-image==0.21.0
