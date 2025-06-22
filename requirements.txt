@@ -39,6 +39,7 @@ packaging==25.0
 pandas==2.0.3
 parso==0.8.4
 PyPDF2==3.0.1
+pdfplumber==0.7.0
 pexpect==4.9.0
 pickleshare==0.7.5
 pillow==10.4.0
@@ -54,6 +55,7 @@ python-dateutil==2.9.0.post0
 pytz==2025.2
 PyWavelets==1.4.1
 pyzmq==26.4.0
+rapid_fuzz==3.0.0
 re= 0.8.1
 regex==2024.11.6
 requests==2.32.3
