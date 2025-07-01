@@ -16,6 +16,7 @@ executing==2.2.0
 frontend==0.6.0
 fitz==0.0.1.dev4
 fonttools==4.57.0
+json5==0.9.11
 idna==3.10
 imageio==2.35.1
 importlib_metadata==8.5.0
